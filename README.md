@@ -1,6 +1,6 @@
 # Hi there! I'm Franner Bermudez 👋
 
-<a href="[www.linkedin.com/in/franner-bermudez-99b4a91a2](https://www.linkedin.com/in/franner-bermudez-99b4a91a2/)" target="_blank">
+<a href="https://www.linkedin.com/in/franner-bermudez-99b4a91a2/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -71,7 +71,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="[www.linkedin.com/in/franner-bermudez-99b4a91a2](https://www.linkedin.com/in/franner-bermudez-99b4a91a2/)" target="_blank">
+  <a href="https://www.linkedin.com/in/franner-bermudez-99b4a91a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:frannermanuel@gmail.com">
