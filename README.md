@@ -43,7 +43,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
       <h3 align="center">Pseudocodex</h3>
       <div align="center">
         <a href="https://github.com/franmbv/PseudoCode_Web_Studio" target="_blank">
-          <img src="URL_DE_TU_IMAGEN_AQUI" width="400" alt="Preview de Pseudocodex">
+          <img width="400" alt="Preview de Pseudocodex" src="https://github.com/user-attachments/assets/396d6693-a546-4380-8aba-700dcf323a4d" />
         </a>
         <p>A full-stack web platform for learning programming logic. Developed with Java (Spring Boot) on the backend and React (TypeScript) on the frontend.</p>
         <p>
@@ -55,7 +55,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
       <h3 align="center">J-Sonic Desktop Videogame</h3>
       <div align="center">
         <a href="https://github.com/josueazocar/Proyecto-JSonic" target="_blank">
-          <img src="[URL_DE_TU_IMAGEN_AQUI](https://private-user-images.githubusercontent.com/191870268/482962621-ae2db516-b573-451d-a88a-03d01227aaa2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxNDc3ODcsIm5iZiI6MTc1ODE0NzQ4NywicGF0aCI6Ii8xOTE4NzAyNjgvNDgyOTYyNjIxLWFlMmRiNTE2LWI1NzMtNDUxZC1hODhhLTAzZDAxMjI3YWFhMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxN1QyMjE4MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZWJjNGE4YTQ3NTFjNWM3ZjRkNzA3NGEyMGExOTI4M2EzNmZjNTNmNWM5MjkwZjRlYzI4MTBkYTE0ODgyZjI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.td5bXb8ZxXFkXe1WTrkbTmIG7KjP6YQf4ufwibCSUCY)" width="400" alt="Preview de J-Sonic Videogame">
+            <img width="400" alt="Preview of J-Sonic Videogame" src="https://github.com/user-attachments/assets/30faa9ca-7756-4737-81d9-5506f093903b" />
         </a>
         <p>A 2D multiplayer video game created with Libgdx. I was responsible for the user interface, including menus, HUD, and status screens.</p>
         <p>
