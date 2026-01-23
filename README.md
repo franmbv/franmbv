@@ -63,6 +63,18 @@ I'm a Computer Engineering student at the **National Experimental University of 
         </p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Bull58</h3>
+      <div align="center">
+        <a href="https://bull58.netlify.app/" target="_blank">
+          <img width="400" alt="preview of bull58" src="https://github.com/user-attachments/assets/fe069271-978a-4154-9ee8-06866f1b85b3" />
+        </a>
+        <p>Fintech for Venezuelan stock market tracking. Microservices architecture.</p>
+        <p>
+          <b>Tech Stack:</b> Java, SpringBoot, Docker, Azure
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
