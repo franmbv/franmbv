@@ -39,7 +39,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Pseudocodex</h3>
       <div align="center">
         <a href="https://github.com/franmbv/PseudoCode_Web_Studio" target="_blank">
@@ -51,7 +51,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">J-Sonic Desktop Videogame</h3>
       <div align="center">
         <a href="https://github.com/josueazocar/Proyecto-JSonic" target="_blank">
@@ -63,7 +63,7 @@ I'm a Computer Engineering student at the **National Experimental University of 
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Bull58</h3>
       <div align="center">
         <a href="https://bull58.netlify.app/" target="_blank">
